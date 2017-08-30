@@ -1,5 +1,7 @@
 let mix = require('laravel-mix');
 
+mix.config.postCss = require('./postcss.config').plugins;
+
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management
