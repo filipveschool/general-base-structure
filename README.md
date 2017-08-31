@@ -16,7 +16,7 @@ I want to make one final general start structure instead of my half finished pro
 ## TODO packages to install
 
 - [ ] https://github.com/spatie/laravel-demo-mode
-- [ ] https://github.com/spatie/laravel-analytics
+- [x] https://github.com/spatie/laravel-analytics
 - [x] https://github.com/spatie/laravel-cookie-consent
 - [x] https://github.com/spatie/laravel-permission
 - [x] https://github.com/spatie/laravel-activitylog
